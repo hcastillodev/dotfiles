@@ -12,9 +12,3 @@ remember_window_size yes
 initial_window_width 1680
 initial_window_height 1200
 enable_audio_bell no
-
-
-# BEGIN_KITTY_THEME
-# One Dark
-include current-theme.conf
-# END_KITTY_THEME
